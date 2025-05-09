@@ -1,0 +1,5 @@
+Các xe được sản xuất vào năm 2019 có giá bán cao hơn nhiều so với các xe được sản xuất vào năm 2018 trở về trước, giải thích cho lý do trên là:
+- Do việc chuyển đổi sang tiêu chuẩn khí thải BS-VI: Vì từ 4/2019 thì BS-VI đã được áp dụng cho tất cả các loại xe mới được sản xuất tại Ấn Độ nên các xe sản xuất từ 2018 trở về trc ko tuân thử BS VI  100% nên giá sẽ ko cao bằng các xe đc sản xuất trong năm 2019 có tỉ lệ tuân thử BS VI cao hơn (https://blogmedia.testbook.com/blog/wp-content/uploads/2022/08/bharat-stage-emission-standards-7df46e08.pdf) 
+- BS-VI bắt buộc các cải tiến: xe dầu phải trang bị lọc hạt bụi (DPF) và hệ SCR khử NOₓ, xe hai bánh chuyển từ chế hòa khí sang phun xăng điện tử, và tất cả xe đều bắt buộc hệ thống chẩn đoán trên xe (OBD) để giám sát phát thải(livemint.com. Những thay đổi này khiến cấu trúc xe nặng hơn và tăng chi phí sản xuất.
+- Từ 1/4/2020, tòa án tối cao Ấn Độ cấm bán và đăng ký xe chuẩn BS-IV nên trước thời điểm chuyển giao, nhiều người tranh thủ bán tháo xe BS-IV vì lo mất giá trong tương lai; các nền tảng xe cũ báo cáo nguồn cung xe BS-IV tăng mạnh và giá giảm xuống thành “hàng hời”timesofindia.indiatimes.com.
+
